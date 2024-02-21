@@ -44,6 +44,7 @@
     <Compile Include="Enums\DataStatus.cs" />
     <Compile Include="Enums\deneme.cs" />
     <Compile Include="Enums\test.cs" />
+    <Compile Include="Enums\test2.cs" />
     <Compile Include="Models\ArticleTag.cs" />
     <Compile Include="Models\Article.cs" />
     <Compile Include="Models\Author.cs" />
