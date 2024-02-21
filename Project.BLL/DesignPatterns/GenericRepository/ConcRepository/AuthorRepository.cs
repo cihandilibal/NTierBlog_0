@@ -36,7 +36,7 @@ namespace Project.BLL.DesignPatterns.GenericRepository.ConcRepository
 
            
             //_db.Authors diyerek sadece authora ait işlemleri burada gerçekleştirebilirsiniz.
-
+            //YENİ ÖDEV: KATEGORİYE ÖZGÜ METOD YARAT, BUNDAN FARKLI...
         }
     }
 }
